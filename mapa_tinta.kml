@@ -4,7 +4,7 @@
 		<name>IFRS Osório</name>
 		<description><![CDATA[<img src="http://10.132.30.24/campusmap/mapa_tinta.png"/>]]></description>
 		<Icon>
-			<href>http://10.132.30.24/campusmap/mapa_tinta.png</href>
+			<href>https://raw.githubusercontent.com/aweiand/ifrs-osorio/master/mapa_tinta.png</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<gx:LatLonQuad>
