@@ -13,4 +13,18 @@
 			</coordinates>
 		</gx:LatLonQuad>
 	</GroundOverlay>
+	<Placemark>
+	    <name>Fremont Troll</name>
+	    <description>
+	        <![CDATA[
+	      <p>The <a href="http://en.wikipedia.org/wiki/Fremont_Troll">Fremont Troll</a> is a large concrete sculpture <br>
+	      of the mythical troll who lives under the bridge.</p>
+	      <p>The troll is holding a Volkswagen bug in his hand.</p>
+	      <img src="/assets/FremontTroll.jpg" height="100px" />
+	            ]]>
+	    </description>
+	    <Point>
+	    	<coordinates>-50.25717524960326,-29.90455915641727,0</coordinates>
+	    </Point>
+  	</Placemark>
 </kml>
