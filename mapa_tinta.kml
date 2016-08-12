@@ -1,157 +1,182 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 	<Document>
-		<name>Camada sem título</name>
+		<name>Camada</name>
 		<Placemark>
-			<name>DTI</name>
+			<name></name>
 			<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2566395,-29.9039912,0.0 -50.2566047,-29.9039807,0.0 -50.2566188,-29.9039586,0.0 -50.2566536,-29.903969,0.0 -50.2566395,-29.9039912,0.0</coordinates>
+						<coordinates>-50.2564712,-29.904272,0.0 -50.2562138,-29.9041574,0.0 -50.2563546,-29.9039266,0.0 -50.2566127,-29.9040388,0.0 -50.2564712,-29.904272,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Ponto 2</name>
-			<description><![CDATA[dsadas]]></description>
-			<styleUrl>#icon-1820-0288D1</styleUrl>
-			<Point>
-				<coordinates>-50.2566589,-29.9039272,0.0</coordinates>
-			</Point>
+			<name></name>
+			<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2565926,-29.903865,0.0 -50.2566133,-29.9038749,0.0 -50.2565892,-29.903915,0.0 -50.2565684,-29.9039075,0.0 -50.2565926,-29.903865,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Ponto 4</name>
-			<styleUrl>#icon-1899-FBC02D-nodesc</styleUrl>
-			<Point>
-				<coordinates>-50.2566053,-29.9039138,0.0</coordinates>
-			</Point>
+			<name></name>
+			<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2565892,-29.903915,0.0 -50.2566133,-29.9038749,0.0 -50.2566341,-29.903883,0.0 -50.2566093,-29.9039232,0.0 -50.2565892,-29.903915,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Ponto 5</name>
-			<description><![CDATA[adds]]></description>
-			<styleUrl>#icon-1899-0288D1</styleUrl>
-			<Point>
-				<coordinates>-50.2565637,-29.9039331,0.0</coordinates>
-			</Point>
+			<name></name>
+			<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2566093,-29.9039232,0.0 -50.2566341,-29.903883,0.0 -50.2566569,-29.9038923,0.0 -50.2566328,-29.9039319,0.0 -50.2566093,-29.9039232,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
 		</Placemark>
-		<Style id='icon-1820-0288D1-normal'>
-			<IconStyle>
-				<color>ffD18802</color>
-				<scale>1.0</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-			</IconStyle>
-			<LabelStyle>
-				<scale>0.0</scale>
-			</LabelStyle>
-		</Style>
-		<Style id='icon-1820-0288D1-highlight'>
-			<IconStyle>
-				<color>ffD18802</color>
-				<scale>1.0</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-			</IconStyle>
-			<LabelStyle>
-				<scale>1.0</scale>
-			</LabelStyle>
-		</Style>
-		<StyleMap id='icon-1820-0288D1'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-1820-0288D1-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-1820-0288D1-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='icon-1899-0288D1-normal'>
-			<IconStyle>
-				<color>ffD18802</color>
-				<scale>1.0</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-			</IconStyle>
-			<LabelStyle>
-				<scale>0.0</scale>
-			</LabelStyle>
-		</Style>
-		<Style id='icon-1899-0288D1-highlight'>
-			<IconStyle>
-				<color>ffD18802</color>
-				<scale>1.0</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-			</IconStyle>
-			<LabelStyle>
-				<scale>1.0</scale>
-			</LabelStyle>
-		</Style>
-		<StyleMap id='icon-1899-0288D1'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-1899-0288D1-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-1899-0288D1-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='icon-1899-FBC02D-nodesc-normal'>
-			<IconStyle>
-				<color>ff2DC0FB</color>
-				<scale>1.0</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-			</IconStyle>
-			<LabelStyle>
-				<scale>0.0</scale>
-			</LabelStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='icon-1899-FBC02D-nodesc-highlight'>
-			<IconStyle>
-				<color>ff2DC0FB</color>
-				<scale>1.0</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-			</IconStyle>
-			<LabelStyle>
-				<scale>1.0</scale>
-			</LabelStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='icon-1899-FBC02D-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-1899-FBC02D-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-1899-FBC02D-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2566328,-29.9039319,0.0 -50.2566569,-29.9038923,0.0 -50.2566905,-29.9039057,0.0 -50.256667,-29.9039435,0.0 -50.2566328,-29.9039319,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2566462,-29.9039371,0.0 -50.256667,-29.9039435,0.0 -50.2566589,-29.9039592,0.0 -50.2566375,-29.9039516,0.0 -50.2566462,-29.9039371,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2566589,-29.9039592,0.0 -50.2566388,-29.9039941,0.0 -50.256608,-29.9039819,0.0 -50.2566268,-29.9039481,0.0 -50.2566589,-29.9039592,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2566268,-29.9039481,0.0 -50.256608,-29.9039819,0.0 -50.2565731,-29.9039662,0.0 -50.2565912,-29.9039354,0.0 -50.2566268,-29.9039481,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2565912,-29.9039354,0.0 -50.2565731,-29.9039662,0.0 -50.2565409,-29.9039551,0.0 -50.2565597,-29.9039214,0.0 -50.2565912,-29.9039354,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2565007,-29.9038249,0.0 -50.2564833,-29.9038551,0.0 -50.2564464,-29.9038418,0.0 -50.2564638,-29.903811,0.0 -50.2565007,-29.9038249,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2564833,-29.9038551,0.0 -50.2564712,-29.9038772,0.0 -50.256435,-29.9038627,0.0 -50.2564464,-29.9038418,0.0 -50.2564833,-29.9038551,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.256502,-29.903897,0.0 -50.2564866,-29.9039249,0.0 -50.2564336,-29.9039022,0.0 -50.2564484,-29.9038796,0.0 -50.256502,-29.903897,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2564484,-29.9038796,0.0 -50.2564336,-29.9039022,0.0 -50.2563907,-29.903886,0.0 -50.2564035,-29.903861,0.0 -50.2564484,-29.9038796,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2565349,-29.9039266,0.0 -50.2565047,-29.903915,0.0 -50.2565168,-29.9038918,0.0 -50.256547,-29.9039011,0.0 -50.2565349,-29.9039266,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
 		<Style id='poly-000000-1-77-nodesc-normal'>
 			<LineStyle>
 				<color>ff000000</color>
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>4D000000</color>
+				<color>f2f2f2</color>
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
@@ -165,7 +190,7 @@
 				<width>2.0</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>4D000000</color>
+				<color>f2f2f2</color>
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
@@ -183,5 +208,19 @@
 				<styleUrl>#poly-000000-1-77-nodesc-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
+		<Style id='poly-BDBDBD-1-74-nodesc-normal'>
+			<LineStyle>
+				<color>ffBDBDBD</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>f2f2f2</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
 	</Document>
 </kml>
