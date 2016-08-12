@@ -180,9 +180,9 @@
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
-			<BalloonStyle>
+<!-- 			<BalloonStyle>
 				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
+			</BalloonStyle> -->
 		</Style>
 		<Style id='poly-000000-1-77-nodesc-highlight'>
 			<LineStyle>
@@ -194,9 +194,9 @@
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
-			<BalloonStyle>
+<!-- 			<BalloonStyle>
 				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
+			</BalloonStyle> -->
 		</Style>
 		<StyleMap id='poly-000000-1-77-nodesc'>
 			<Pair>
@@ -208,19 +208,5 @@
 				<styleUrl>#poly-000000-1-77-nodesc-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
-		<Style id='poly-BDBDBD-1-74-nodesc-normal'>
-			<LineStyle>
-				<color>ffBDBDBD</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>f2f2f2</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
 	</Document>
 </kml>
