@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<GroundOverlay>
+		<name>IFRS Osório</name>
+		<description><![CDATA[<img src="http://10.132.30.24/campusmap/mapa_tinta.png"/>]]></description>
+		<Icon>
+			<href>http://10.132.30.24/campusmap/mapa_tinta.png</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<gx:LatLonQuad>
+			<coordinates>
+				-50.25717524960326,-29.90455915641727,0 -50.25494679338073,-29.90455915641727,0 -50.25494679338073,-29.90301779822405,0 -50.25717524960326,-29.90301779822405,0 
+			</coordinates>
+		</gx:LatLonQuad>
+	</GroundOverlay>
+</kml>
