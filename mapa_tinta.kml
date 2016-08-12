@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 	<GroundOverlay>
 		<name>IFRS Osório</name>
-		<description><![CDATA[<img src="http://10.132.30.24/campusmap/mapa_tinta.png"/>]]></description>
+		<description><![CDATA[<img src="https://raw.githubusercontent.com/aweiand/ifrs-osorio/master/mapa_tinta.png"/>]]></description>
 		<Icon>
 			<href>https://raw.githubusercontent.com/aweiand/ifrs-osorio/master/mapa_tinta.png</href>
 			<viewBoundScale>0.75</viewBoundScale>
