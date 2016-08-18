@@ -189,7 +189,7 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.256724,-29.9037092,0.0 -50.2567367,-29.9036848,0.0 -50.2568024,-29.9037081,0.0 -50.256789,-29.9037337,0.0 -50.256724,-29.9037092,0.0</coordinates>
+						<coordinates>-50.2560708,-29.9040149,0.0 -50.2560433,-29.9040609,0.0 -50.2559763,-29.9040307,0.0 -50.2560038,-29.903983,0.0 -50.2560708,-29.9040149,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
@@ -201,7 +201,7 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2560487,-29.9040068,0.0 -50.2560212,-29.9040528,0.0 -50.2559542,-29.9040226,0.0 -50.2559817,-29.9039749,0.0 -50.2560487,-29.9040068,0.0</coordinates>
+						<coordinates>-50.2560708,-29.9040161,0.0 -50.2561433,-29.9040475,0.0 -50.2560715,-29.9041673,0.0 -50.2559226,-29.9040975,0.0 -50.2559482,-29.9040505,0.0 -50.2560259,-29.9040836,0.0 -50.2560708,-29.9040161,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
@@ -213,7 +213,7 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2560487,-29.9040068,0.0 -50.2561433,-29.9040475,0.0 -50.2560715,-29.9041673,0.0 -50.2559112,-29.9040923,0.0 -50.2559361,-29.9040458,0.0 -50.2560078,-29.904076,0.0 -50.2560487,-29.9040068,0.0</coordinates>
+						<coordinates>-50.2559475,-29.9040516,0.0 -50.2559226,-29.9040981,0.0 -50.2558583,-29.9040696,0.0 -50.2558831,-29.904026,0.0 -50.2559475,-29.9040516,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
@@ -225,7 +225,7 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2559361,-29.9040458,0.0 -50.2559112,-29.9040923,0.0 -50.2558469,-29.9040638,0.0 -50.2558717,-29.9040202,0.0 -50.2559361,-29.9040458,0.0</coordinates>
+						<coordinates>-50.2558844,-29.9040254,0.0 -50.2558596,-29.904069,0.0 -50.2558254,-29.9040539,0.0 -50.2558482,-29.9040132,0.0 -50.2558844,-29.9040254,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
@@ -237,7 +237,7 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2558717,-29.9040202,0.0 -50.2558469,-29.9040638,0.0 -50.2558127,-29.9040487,0.0 -50.2558355,-29.904008,0.0 -50.2558717,-29.9040202,0.0</coordinates>
+						<coordinates>-50.2558482,-29.9040132,0.0 -50.2558254,-29.9040539,0.0 -50.2557718,-29.9040325,0.0 -50.2557952,-29.9039911,0.0 -50.2558482,-29.9040132,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
@@ -249,7 +249,7 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2558355,-29.904008,0.0 -50.2558127,-29.9040487,0.0 -50.2557537,-29.9040255,0.0 -50.2557825,-29.9039859,0.0 -50.2558355,-29.904008,0.0</coordinates>
+						<coordinates>-50.2560025,-29.903983,0.0 -50.255975,-29.9040307,0.0 -50.2559281,-29.9040091,0.0 -50.2559555,-29.9039632,0.0 -50.2560025,-29.903983,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
@@ -261,7 +261,7 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2559817,-29.9039749,0.0 -50.2559542,-29.9040226,0.0 -50.2559073,-29.904001,0.0 -50.2559347,-29.9039551,0.0 -50.2559817,-29.9039749,0.0</coordinates>
+						<coordinates>-50.2559568,-29.9039621,0.0 -50.2559294,-29.904008,0.0 -50.2558992,-29.9039958,0.0 -50.2559294,-29.9039505,0.0 -50.2559568,-29.9039621,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
@@ -273,7 +273,7 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2559347,-29.9039551,0.0 -50.2559073,-29.904001,0.0 -50.2558771,-29.9039888,0.0 -50.2559073,-29.9039435,0.0 -50.2559347,-29.9039551,0.0</coordinates>
+						<coordinates>-50.2558972,-29.9039383,0.0 -50.255865,-29.9039871,0.0 -50.2558201,-29.9039679,0.0 -50.2558549,-29.9039197,0.0 -50.2558972,-29.9039383,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
@@ -285,7 +285,7 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2558751,-29.9039284,0.0 -50.2558429,-29.9039772,0.0 -50.255798,-29.903958,0.0 -50.2558328,-29.9039098,0.0 -50.2558751,-29.9039284,0.0</coordinates>
+						<coordinates>-50.2558569,-29.9036436,0.0 -50.2559595,-29.9036901,0.0 -50.255922,-29.9037494,0.0 -50.25582,-29.9037075,0.0 -50.2558569,-29.9036436,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
@@ -297,7 +297,7 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2559012,-29.9036622,0.0 -50.2560038,-29.9037087,0.0 -50.2559663,-29.903768,0.0 -50.2558643,-29.9037261,0.0 -50.2559012,-29.9036622,0.0</coordinates>
+						<coordinates>-50.25582,-29.9037075,0.0 -50.255922,-29.9037494,0.0 -50.2558891,-29.9038133,0.0 -50.2557838,-29.9037685,0.0 -50.25582,-29.9037075,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
@@ -309,31 +309,7 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2558643,-29.9037261,0.0 -50.2559663,-29.903768,0.0 -50.2559334,-29.9038319,0.0 -50.2558281,-29.9037871,0.0 -50.2558643,-29.9037261,0.0</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name></name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<tessellate>1</tessellate>
-						<coordinates>-50.2559844,-29.9037406,0.0 -50.2560038,-29.9037087,0.0 -50.2560407,-29.9037244,0.0 -50.2560199,-29.9037557,0.0 -50.2559844,-29.9037406,0.0</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name></name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<tessellate>1</tessellate>
-						<coordinates>-50.2559348,-29.9038487,0.0 -50.2558979,-29.9039214,0.0 -50.2558053,-29.9038789,0.0 -50.2558489,-29.9038115,0.0 -50.2559348,-29.9038487,0.0</coordinates>
+						<coordinates>-50.2559408,-29.9037226,0.0 -50.2559602,-29.9036907,0.0 -50.2559971,-29.9037064,0.0 -50.2559763,-29.9037377,0.0 -50.2559408,-29.9037226,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
@@ -358,6 +334,402 @@
 					<LinearRing>
 						<tessellate>1</tessellate>
 						<coordinates>-50.2561077,-29.9032413,0.0 -50.2561366,-29.9031885,0.0 -50.2562177,-29.9032164,0.0 -50.2561855,-29.9032751,0.0 -50.2561077,-29.9032413,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.255808,-29.9038982,0.0 -50.2558549,-29.9039197,0.0 -50.2558201,-29.9039679,0.0 -50.2557758,-29.903947,0.0 -50.255808,-29.9038982,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2557952,-29.9039911,0.0 -50.2557718,-29.9040325,0.0 -50.2557342,-29.9040138,0.0 -50.2557577,-29.9039755,0.0 -50.2557952,-29.9039911,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.256435,-29.9038627,0.0 -50.2564236,-29.9038581,0.0 -50.2564517,-29.9038069,0.0 -50.2564638,-29.903811,0.0 -50.256435,-29.9038627,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2564517,-29.9038069,0.0 -50.2564236,-29.9038581,0.0 -50.2564095,-29.9038517,0.0 -50.2564356,-29.9037999,0.0 -50.2564517,-29.9038069,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2564162,-29.9038546,0.0 -50.2564122,-29.903865,0.0 -50.2564035,-29.903861,0.0 -50.2564095,-29.9038517,0.0 -50.2564162,-29.9038546,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2565657,-29.9036965,0.0 -50.2565255,-29.9037854,0.0 -50.2563552,-29.9037133,0.0 -50.2564061,-29.9036267,0.0 -50.2565657,-29.9036965,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2566623,-29.9036238,0.0 -50.256614,-29.9036047,0.0 -50.2565912,-29.9036506,0.0 -50.2565289,-29.9036255,0.0 -50.2565812,-29.9035273,0.0 -50.2566911,-29.9035721,0.0 -50.2566623,-29.9036238,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2567233,-29.9036476,0.0 -50.2567361,-29.9036244,0.0 -50.2567796,-29.9036412,0.0 -50.2567669,-29.9036645,0.0 -50.2567233,-29.9036476,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2567361,-29.9036244,0.0 -50.2567488,-29.9036,0.0 -50.2567924,-29.903618,0.0 -50.2567796,-29.9036412,0.0 -50.2567361,-29.9036244,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2566884,-29.9036988,0.0 -50.2567173,-29.9036453,0.0 -50.2567669,-29.9036645,0.0 -50.2567924,-29.903618,0.0 -50.2568427,-29.9036383,0.0 -50.2567877,-29.9037342,0.0 -50.2566884,-29.9036988,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2565657,-29.9036965,0.0 -50.2565134,-29.9036738,0.0 -50.2565228,-29.903661,0.0 -50.2565731,-29.9036814,0.0 -50.2565657,-29.9036965,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2565912,-29.9036506,0.0 -50.2565825,-29.9036656,0.0 -50.2565335,-29.9036453,0.0 -50.2565396,-29.9036296,0.0 -50.2565912,-29.9036506,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2565396,-29.9036296,0.0 -50.2565134,-29.9036738,0.0 -50.2564967,-29.9036662,0.0 -50.2565195,-29.9036209,0.0 -50.2565396,-29.9036296,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2559341,-29.9038476,0.0 -50.2558865,-29.903922,0.0 -50.2557825,-29.9038755,0.0 -50.2558275,-29.9038098,0.0 -50.2559341,-29.9038476,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2559596,-29.9039202,0.0 -50.25598,-29.9039269,0.0 -50.2559844,-29.9039162,0.0 -50.2561064,-29.9039697,0.0 -50.2560903,-29.9039993,0.0 -50.2559468,-29.9039394,0.0 -50.2559596,-29.9039202,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2559723,-29.9038947,0.0 -50.2559817,-29.9038772,0.0 -50.2561272,-29.9039348,0.0 -50.2561064,-29.9039697,0.0 -50.2559844,-29.9039162,0.0 -50.2559917,-29.9039034,0.0 -50.2559723,-29.9038947,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2559468,-29.9038354,0.0 -50.2558891,-29.9038133,0.0 -50.2559133,-29.9037732,0.0 -50.2559703,-29.903797,0.0 -50.2559468,-29.9038354,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2559891,-29.9038557,0.0 -50.2560172,-29.9038022,0.0 -50.2560856,-29.9038313,0.0 -50.2560541,-29.903883,0.0 -50.2559891,-29.9038557,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2560856,-29.9038313,0.0 -50.2561601,-29.9038615,0.0 -50.2561299,-29.9039173,0.0 -50.2560541,-29.903883,0.0 -50.2560856,-29.9038313,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2561601,-29.9038615,0.0 -50.2562439,-29.9038987,0.0 -50.256211,-29.9039551,0.0 -50.2561299,-29.9039173,0.0 -50.2561601,-29.9038615,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2562439,-29.9038987,0.0 -50.2561768,-29.9038691,0.0 -50.256213,-29.9037988,0.0 -50.2562848,-29.9038301,0.0 -50.2562439,-29.9038987,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2561909,-29.9038371,0.0 -50.2561158,-29.9038075,0.0 -50.2561419,-29.9037668,0.0 -50.256213,-29.9037988,0.0 -50.2561909,-29.9038371,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2561158,-29.9038075,0.0 -50.2560434,-29.9037767,0.0 -50.2560709,-29.9037348,0.0 -50.2561419,-29.9037668,0.0 -50.2561158,-29.9038075,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2560709,-29.9037348,0.0 -50.2560434,-29.9037767,0.0 -50.2559723,-29.9037476,0.0 -50.2559971,-29.9037064,0.0 -50.2560709,-29.9037348,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2561855,-29.9032751,0.0 -50.2562177,-29.9032164,0.0 -50.256274,-29.9032396,0.0 -50.2562412,-29.9032989,0.0 -50.2561855,-29.9032751,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2562177,-29.9032164,0.0 -50.2561734,-29.9031977,0.0 -50.2561989,-29.9031524,0.0 -50.2562989,-29.9032006,0.0 -50.256274,-29.9032396,0.0 -50.2562177,-29.9032164,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2561989,-29.9031524,0.0 -50.2561734,-29.9031977,0.0 -50.2561366,-29.9031885,0.0 -50.2561641,-29.9031396,0.0 -50.2561989,-29.9031524,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2561077,-29.9032413,0.0 -50.2560849,-29.9032303,0.0 -50.2561124,-29.9031797,0.0 -50.2561366,-29.9031885,0.0 -50.2561077,-29.9032413,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2561124,-29.9031797,0.0 -50.2561238,-29.9031617,0.0 -50.2561473,-29.9031704,0.0 -50.2561366,-29.9031885,0.0 -50.2561124,-29.9031797,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2561238,-29.9031617,0.0 -50.2561352,-29.9031454,0.0 -50.256156,-29.903153,0.0 -50.2561473,-29.9031704,0.0 -50.2561238,-29.9031617,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.256156,-29.903153,0.0 -50.2561352,-29.9031454,0.0 -50.2561426,-29.9031291,0.0 -50.2561641,-29.9031396,0.0 -50.256156,-29.903153,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2561426,-29.9031291,0.0 -50.2560849,-29.9032303,0.0 -50.25604,-29.9032134,0.0 -50.256099,-29.9031123,0.0 -50.2561426,-29.9031291,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2565685,-29.9032536,0.0 -50.2566502,-29.9032733,0.0 -50.2566288,-29.9033361,0.0 -50.2565456,-29.9033163,0.0 -50.2565685,-29.9032536,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
