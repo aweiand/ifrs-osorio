@@ -320,8 +320,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name></name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Assistência ao Educando</name>
+			<description><![CDATA[Assistência ao Educando]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -332,8 +333,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name></name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Central de Rede</name>
+			<description><![CDATA[Central de Rede do Bloco B]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -357,7 +359,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name></name>
+			<name>Sala de Aula</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -425,7 +427,7 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2565657,-29.9036965,0.0 -50.2565255,-29.9037854,0.0 -50.2563552,-29.9037133,0.0 -50.2564061,-29.9036267,0.0 -50.2565657,-29.9036965,0.0</coordinates>
+						<coordinates>-50.2565657,-29.9036965,0.0 -50.2565255,-29.9037854,0.0 -50.256384,-29.9037273,0.0 -50.2564329,-29.9036366,0.0 -50.2565657,-29.9036965,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
@@ -477,13 +479,13 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2566884,-29.9036988,0.0 -50.2567173,-29.9036453,0.0 -50.2567669,-29.9036645,0.0 -50.2567924,-29.903618,0.0 -50.2568427,-29.9036383,0.0 -50.2567877,-29.9037342,0.0 -50.2566884,-29.9036988,0.0</coordinates>
+						<coordinates>-50.2566904,-29.9036959,0.0 -50.2567173,-29.9036453,0.0 -50.2567669,-29.9036645,0.0 -50.2567924,-29.903618,0.0 -50.2568427,-29.9036383,0.0 -50.2567877,-29.9037342,0.0 -50.2566904,-29.9036959,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Banheiro</name>
+			<name>Banheiro Masculino</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -495,7 +497,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Banheiro</name>
+			<name>Banheiro Feminino</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -507,7 +509,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Banheiro</name>
+			<name>Banheiro Adaptado</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -555,8 +557,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name></name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Sala 8</name>
+			<description><![CDATA[Sala de Aula 8]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -567,8 +570,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name></name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Sala 1</name>
+			<description><![CDATA[Sala de Aula 1]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -579,8 +583,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name></name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Sala 2</name>
+			<description><![CDATA[Sala de Aula 2]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -591,8 +596,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name></name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Sala 3</name>
+			<description><![CDATA[Sala de Aula 3]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -603,8 +609,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name></name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Sala 4</name>
+			<description><![CDATA[Sala de Aula 4]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -615,8 +622,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name></name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Sala 5</name>
+			<description><![CDATA[Sala de Aula 5]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -627,8 +635,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name></name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Sala 6</name>
+			<description><![CDATA[Sala de Aula 6]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -639,8 +648,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name></name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Sala 7</name>
+			<description><![CDATA[Sala de Aula 7]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -687,31 +697,31 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Sala dos Servidores</name>
+			<name>Banheiro Feminino</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2561077,-29.9032413,0.0 -50.2560849,-29.9032303,0.0 -50.2561124,-29.9031797,0.0 -50.2561366,-29.9031885,0.0 -50.2561077,-29.9032413,0.0</coordinates>
+						<coordinates>-50.2561077,-29.9032413,0.0 -50.2560849,-29.9032303,0.0 -50.256099,-29.9032105,0.0 -50.2561218,-29.9032176,0.0 -50.2561077,-29.9032413,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Banheiro</name>
+			<name>Churrasqueira</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2561124,-29.9031797,0.0 -50.2561238,-29.9031617,0.0 -50.2561473,-29.9031704,0.0 -50.2561366,-29.9031885,0.0 -50.2561124,-29.9031797,0.0</coordinates>
+						<coordinates>-50.256099,-29.9032105,0.0 -50.2561238,-29.9031617,0.0 -50.2561473,-29.9031704,0.0 -50.2561218,-29.9032176,0.0 -50.256099,-29.9032105,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Banheiro</name>
+			<name>Banheiro Adaptado</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -723,7 +733,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Banheiro</name>
+			<name>Banheiro Masculino</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -754,6 +764,161 @@
 					<LinearRing>
 						<tessellate>1</tessellate>
 						<coordinates>-50.2565685,-29.9032536,0.0 -50.2566502,-29.9032733,0.0 -50.2566288,-29.9033361,0.0 -50.2565456,-29.9033163,0.0 -50.2565685,-29.9032536,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Laboratório de Panificação</name>
+			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2564329,-29.9036366,0.0 -50.256384,-29.9037273,0.0 -50.256329,-29.903704,0.0 -50.2563813,-29.9036145,0.0 -50.2564329,-29.9036366,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sala do Grêmio</name>
+			<description><![CDATA[Sala do Grêmio]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2563163,-29.9035453,0.0 -50.2562801,-29.9036134,0.0 -50.2562251,-29.9035895,0.0 -50.2562626,-29.9035221,0.0 -50.2563163,-29.9035453,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sala da Limpeza</name>
+			<description><![CDATA[Sala da Limpeza]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2562626,-29.9035221,0.0 -50.2562251,-29.9035895,0.0 -50.2561983,-29.9035796,0.0 -50.2562352,-29.9035099,0.0 -50.2562626,-29.9035221,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sala de Ed. Física</name>
+			<description><![CDATA[Sala de Ed. Física]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2562713,-29.9036308,0.0 -50.2562298,-29.9037011,0.0 -50.2561346,-29.903661,0.0 -50.2561741,-29.9035919,0.0 -50.2562713,-29.9036308,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Laboratório de Física</name>
+			<description><![CDATA[Laboratório de Física]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2561741,-29.9035919,0.0 -50.256148,-29.9036418,0.0 -50.2560776,-29.9036128,0.0 -50.2561071,-29.9035645,0.0 -50.2561741,-29.9035919,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sala da Música</name>
+			<description><![CDATA[Sala da Música]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2561983,-29.9035796,0.0 -50.2561091,-29.9035465,0.0 -50.2561419,-29.9034924,0.0 -50.2562258,-29.9035267,0.0 -50.2561983,-29.9035796,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sala da Banda</name>
+			<description><![CDATA[Sala da Banda]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2561071,-29.9035645,0.0 -50.2560776,-29.9036128,0.0 -50.2560487,-29.9036005,0.0 -50.2560762,-29.9035506,0.0 -50.2561071,-29.9035645,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Oficina de Libras</name>
+			<description><![CDATA[Oficina de Libras]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2561091,-29.9035465,0.0 -50.2560192,-29.9035099,0.0 -50.2560534,-29.903457,0.0 -50.2561419,-29.9034924,0.0 -50.2561091,-29.9035465,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Laboratório de Biologia</name>
+			<description><![CDATA[Laboratório de Biologia]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2560192,-29.9035099,0.0 -50.2559629,-29.9034889,0.0 -50.2559951,-29.903432,0.0 -50.2560534,-29.903457,0.0 -50.2560192,-29.9035099,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sala Vazia</name>
+			<description><![CDATA[Sala Vazia]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2560762,-29.9035506,0.0 -50.2560487,-29.9036005,0.0 -50.255928,-29.9035488,0.0 -50.2559542,-29.9035029,0.0 -50.2560762,-29.9035506,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Banheiro Feminino</name>
+			<description><![CDATA[Banheiro Feminino]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2559542,-29.9035029,0.0 -50.255928,-29.9035488,0.0 -50.2558992,-29.9035372,0.0 -50.2559233,-29.9034895,0.0 -50.2559542,-29.9035029,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Banheiro Masculino</name>
+			<description><![CDATA[Banheiro Masculino]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-50.2559629,-29.9034889,0.0 -50.2559341,-29.903475,0.0 -50.2559656,-29.903418,0.0 -50.2559951,-29.903432,0.0 -50.2559629,-29.9034889,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
