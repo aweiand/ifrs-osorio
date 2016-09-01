@@ -3,8 +3,9 @@
 	<Document>
 		<name>Camada</name>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Departamento de Comunicação</name>
+			<description><![CDATA[Fone: 3601.3507<br>E-mail: comunicacao@osorio.ifrs.edu.br]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -15,8 +16,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Departamento de Gestão de Pessoas</name>
+			<description><![CDATA[Fone: 3601.3513<br>E-mail: cgp@osorio.ifrs.edu.br]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -27,8 +29,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Departamento de Tecnologia da Informação</name>
+			<description><![CDATA[Fone: 3601.3506<br>E-mail: dti@osorio.ifrs.edu.br]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -39,8 +42,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Diretoria de Administração</name>
+			<description><![CDATA[Fone: 3601.3510<br>E-mail: dap@osorio.ifrs.edu.br]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -51,7 +55,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Arquivo</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -63,8 +67,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Execução Orçamentária</name>
+			<description><![CDATA[Fone: 3601.3511 e 3601.3512<br>E-mail: financeiro@osorio.ifrs.edu.br]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -75,8 +80,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Compras e Licitações</name>
+			<description><![CDATA[Fone: 3601.3517<br>E-mail: licitacao@osorio.ifrs.edu.br]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -87,8 +93,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Auditoria</name>
+			<description><![CDATA[Fone: 3601.3509]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -99,8 +106,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Setor de Registros Acadêmicos</name>
+			<description><![CDATA[Fone: 3601.3501<br>E-mail: sra@osorio.ifrs.edu.br]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -111,7 +119,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Data Center</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -123,8 +131,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Chefia de Gabinete/Direção Geral </name>
+			<description><![CDATA[Fone: 3601.3504<br>E-mail: gabinete@osorio.ifrs.edu.br]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -135,8 +144,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Direção Geral </name>
+			<description><![CDATA[Fone: 3601.3505<br>E-mail: gabinete@osorio.ifrs.edu.br]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -147,8 +157,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Departamento de Estágios e Egressos</name>
+			<description><![CDATA[Fone: 3601.3508<br>E-mail: estagios@osorio.ifrs.edu.br]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -159,7 +170,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Área de Convivência</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -171,8 +182,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Biblioteca</name>
+			<description><![CDATA[Recepção]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -183,7 +195,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Coordenação de Cursos</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -195,56 +207,60 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Sala dos Professores</name>
+			<description><![CDATA[Fone: 3601.3523]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2560802,-29.903998,0.0 -50.2561513,-29.9040272,0.0 -50.2560715,-29.9041673,0.0 -50.2559226,-29.9040975,0.0 -50.2559482,-29.9040505,0.0 -50.2560346,-29.9040906,0.0 -50.2560802,-29.903998,0.0</coordinates>
+						<coordinates>-50.2560802,-29.903998,0.0 -50.2561513,-29.9040272,0.0 -50.2560702,-29.904172,0.0 -50.2559186,-29.9041027,0.0 -50.2559482,-29.9040505,0.0 -50.2560346,-29.9040906,0.0 -50.2560802,-29.903998,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Pedagógico e Assistência ao Educando</name>
+			<description><![CDATA[Fone: 3601.3525<br>E-mail: pedagogico@osorio.ifrs.edu.br]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2559475,-29.9040516,0.0 -50.2559226,-29.9040981,0.0 -50.2558583,-29.9040696,0.0 -50.2558831,-29.904026,0.0 -50.2559475,-29.9040516,0.0</coordinates>
+						<coordinates>-50.2559475,-29.9040516,0.0 -50.2559186,-29.9041027,0.0 -50.2558536,-29.9040731,0.0 -50.2558804,-29.9040196,0.0 -50.2559475,-29.9040516,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Diretoria de Pesquisa / Extensão</name>
+			<description><![CDATA[Fone: 3601.352<br>E-mail: extensao@osorio.ifrs.edu.br <br>E-mail: pesquisa@osorio.ifrs.edu.br]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2558844,-29.9040254,0.0 -50.2558596,-29.904069,0.0 -50.2558254,-29.9040539,0.0 -50.2558482,-29.9040132,0.0 -50.2558844,-29.9040254,0.0</coordinates>
+						<coordinates>-50.2558804,-29.9040196,0.0 -50.2558536,-29.9040731,0.0 -50.2558214,-29.9040591,0.0 -50.2558529,-29.9040074,0.0 -50.2558804,-29.9040196,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Laboratório de Informática 4</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2558482,-29.9040132,0.0 -50.2558254,-29.9040539,0.0 -50.2557436,-29.9040185,0.0 -50.2557737,-29.9039719,0.0 -50.2558482,-29.9040132,0.0</coordinates>
+						<coordinates>-50.2558529,-29.9040074,0.0 -50.2558214,-29.9040591,0.0 -50.2557449,-29.9040261,0.0 -50.2557737,-29.9039719,0.0 -50.2558529,-29.9040074,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Diretoria de Ensino e Coordenação de Ensino</name>
+			<description><![CDATA[Fone: 3601.3520<br>E-mail: ensino@osorio.ifrs.edu.br]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -255,8 +271,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Núcleo de Educação a Distância</name>
+			<description><![CDATA[Fone: 3601.3527<br>E-mail: nead@osorio.ifrs.edu.br]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -267,7 +284,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Laboratório de Informática 3</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -279,7 +296,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Laboratório de Informática 1</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -291,7 +308,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Laboratório de Informática 2</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -303,7 +320,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name></name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -315,7 +332,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name></name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -327,8 +344,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Infraestrutura e Almoxarifado</name>
+			<description><![CDATA[Fone: 3601.3514<br>E-mail: infraestrutura@osorio.ifrs.edu.br<br>E-mail: transporte@osorio.ifrs.edu.br]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -339,7 +357,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name></name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -351,19 +369,20 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Núcleo de Atendimento às Pessoas com Necessidades Educacionais Específicas / Núcleo de Estudos Afro-Brasileiros e Indígenas </name>
+			<description><![CDATA[Fone: 3601.3524<br>E-mail: napne@osorio.ifrs.edu.br<br>E-mail: neabi@osorio.ifrs.edu.br]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2557737,-29.9039719,0.0 -50.2557436,-29.9040185,0.0 -50.2556966,-29.9039952,0.0 -50.2557282,-29.9039488,0.0 -50.2557737,-29.9039719,0.0</coordinates>
+						<coordinates>-50.2557737,-29.9039719,0.0 -50.2557449,-29.9040261,0.0 -50.2556932,-29.9040028,0.0 -50.2557282,-29.9039488,0.0 -50.2557737,-29.9039719,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Banheiro Masculino</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -375,7 +394,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Banheiro Feminino</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -387,7 +406,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Copa</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -399,8 +418,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Auditório</name>
+			<description><![CDATA[Bloco A]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -411,8 +431,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Biblioteca</name>
+			<description><![CDATA[Livros]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -423,8 +444,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Biblioteca</name>
+			<description><![CDATA[Sala de Estudos]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -435,8 +457,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Biblioteca</name>
+			<description><![CDATA[Sala de Estudos]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -447,8 +470,9 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
-			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
+			<name>Biblioteca</name>
+			<description><![CDATA[Sala de Estudos]]></description>
+			<styleUrl>#poly-BDBDBD-1-87</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -459,7 +483,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Banheiro</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -471,7 +495,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Banheiro</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -483,7 +507,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Banheiro</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -495,7 +519,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Mini-Auditório</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -507,7 +531,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Banheiro Feminino</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -519,7 +543,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Banheiro Masculino</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -531,7 +555,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name></name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -543,7 +567,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name></name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -555,7 +579,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name></name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -567,43 +591,43 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name></name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2561601,-29.9038615,0.0 -50.2562392,-29.9038975,0.0 -50.2562144,-29.9039568,0.0 -50.2561299,-29.9039173,0.0 -50.2561601,-29.9038615,0.0</coordinates>
+						<coordinates>-50.2561601,-29.9038615,0.0 -50.2562493,-29.9039016,0.0 -50.2562144,-29.9039568,0.0 -50.2561299,-29.9039173,0.0 -50.2561601,-29.9038615,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name></name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2562439,-29.9038987,0.0 -50.2561768,-29.9038691,0.0 -50.2562291,-29.9037552,0.0 -50.2563083,-29.9037853,0.0 -50.2562439,-29.9038987,0.0</coordinates>
+						<coordinates>-50.2562493,-29.9039016,0.0 -50.2561768,-29.9038691,0.0 -50.2562351,-29.9037575,0.0 -50.2563083,-29.9037853,0.0 -50.2562493,-29.9039016,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name></name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
 						<tessellate>1</tessellate>
-						<coordinates>-50.2561949,-29.9038208,0.0 -50.2561218,-29.9037918,0.0 -50.2561533,-29.903729,0.0 -50.2562291,-29.9037552,0.0 -50.2561949,-29.9038208,0.0</coordinates>
+						<coordinates>-50.2562009,-29.9038214,0.0 -50.2561218,-29.9037918,0.0 -50.2561533,-29.903729,0.0 -50.2562351,-29.9037575,0.0 -50.2562009,-29.9038214,0.0</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name></name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -615,7 +639,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name></name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -627,7 +651,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Depósito</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -639,7 +663,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Depósito</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -651,7 +675,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Copa</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -663,7 +687,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Sala dos Servidores</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -675,7 +699,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Banheiro</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -687,7 +711,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Banheiro</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -699,7 +723,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Banheiro</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -711,7 +735,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name>Churrasqueira</name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -723,7 +747,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Local</name>
+			<name></name>
 			<styleUrl>#poly-BDBDBD-1-87-nodesc</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
@@ -734,6 +758,38 @@
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
+		<Style id='poly-BDBDBD-1-87-normal'>
+			<LineStyle>
+				<color>ffBDBDBD</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>57BDBDBD</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-BDBDBD-1-87-highlight'>
+			<LineStyle>
+				<color>ffBDBDBD</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>57BDBDBD</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-BDBDBD-1-87'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-BDBDBD-1-87-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-BDBDBD-1-87-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id='poly-BDBDBD-1-87-nodesc-normal'>
 			<LineStyle>
 				<color>ffBDBDBD</color>
